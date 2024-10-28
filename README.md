@@ -10,20 +10,20 @@
 ![Preview](pictures/lfsnew.png)
 
 **Instalation:**
-```git clone https://github.com/user7210unix/dwm-dotfiles.git
+```git clone https://github.com/user7210unix/dwm-dotfiles.git```
 
-cd dwm-dotfiles/suckless
-cd dwm 
-sudo make clean install
-cd ..
-cd st
-sudo make clean install
-cd ..
-cd slstatus
-sudo make clean install
-cd ..
-cd dmenu 
-sudo make clean install```
+```cd dwm-dotfiles/suckless```
+```cd dwm ```
+```sudo make clean install```
+```cd ..```
+```cd st```
+```sudo make clean install```
+```cd ..```
+```cd slstatus```
+```sudo make clean install```
+```cd ..```
+```cd dmenu ```
+```sudo make clean install```
 
 
 
