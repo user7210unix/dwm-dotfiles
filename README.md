@@ -2,9 +2,7 @@
   <h1>🌟 <strong>𝐃𝐖𝐌-𝐃𝐎𝐓𝐅𝐈𝐋𝐄𝐒</strong> 🌟</h1>
 </div>
 
----
 
-## **Window Manager**:  
 <div align="center">
   <h2 style="font-size: 24px;">
     <strong> Window Manager: <a href="https://dwm.suckless.org/" style="text-decoration: none; color: inherit;">
@@ -13,8 +11,6 @@
     </strong>
   </h2>
 </div>
-
----
 
 <div align="center" style="margin: 30px 0;">
   <h2>🎨 Showcase</h2>
