@@ -21,16 +21,17 @@
 </div>
 
 ---
-
-<p style="font-family: 'Courier New', monospace; font-size: 18px; line-height: 1.6; color: #555;">
-  My Distro/Book of choice is <strong>LFS (Linux From Scratch) 12.2</strong>
-  <a href="https://www.linuxfromscratch.org/lfs/view/stable/" target="_blank" style="text-decoration: none; color: inherit;">
-  </a>, prioritizing <strong>performance</strong>, <strong>simplicity</strong>, and a <strong>clean aesthetic</strong>.
-</p>
-
-<div align="center">
-  <img src="pictures/lfs.png" alt="LFS Logo" width="200" style="margin-bottom: 20px;">
+<div style="display: flex; align-items: center; justify-content: space-between;">
+  <div style="font-family: 'Courier New', monospace; font-size: 18px; line-height: 1.6; color: #555; max-width: 50%;">
+    <p>My Distro/Book of choice is <strong>LFS (Linux From Scratch) 12.2</strong>, 
+    <a href="https://www.linuxfromscratch.org/lfs/view/stable/" target="_blank" style="text-decoration: none; color: inherit;">
+    </a>prioritizing <strong>performance</strong>, <strong>simplicity</strong>, and a <strong>clean aesthetic</strong>.</p>
+  </div>
+  <div>
+    <img src="pictures/lfs.png" alt="LFS Logo" width="200" style="margin-left: 20px;">
+  </div>
 </div>
+
 
 ---
 
