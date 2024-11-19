@@ -1,10 +1,9 @@
 # dwm-dotfiles
 
-**Features**
+**Important**
 
-    Lightweight and responsive window management
-    Custom keybindings for quick navigation
-    Aesthetic design with a focus on usability
+    the config.mk is changed from /usr/local to /usr because in the LFS 12.2 Build i 
+    had to change it so u have to manually add the /local/ back
 
 
 ![Preview](pictures/lfsnew.png)
@@ -19,9 +18,3 @@
 **Font required:**
 
 ```terminus-font```
-
-```tar -xvzf terminus-font.tar.gz```
-
-```sudo cp terminus-font-4.49.1/* /usr/share/fonts/terminus/```
-
-```fc-cache -fv```
