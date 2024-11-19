@@ -15,8 +15,7 @@
 
 ## 📥 **Installation**
 
-```bash
-git clone https://github.com/user7210unix/dwm-dotfiles.git
+```git clone https://github.com/user7210unix/dwm-dotfiles.git
 cd dwm-dotfiles/suckless```
 
 <div align="center">
