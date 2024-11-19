@@ -1,12 +1,13 @@
 # dwm-dotfiles
 
+![Preview](pictures/lfsnew.png)
+
 **Important**
 
     the config.mk is changed from /usr/local to /usr because in the LFS 12.2 Build i 
     had to change it so u have to manually add the /local/ back
 
 
-![Preview](pictures/lfsnew.png)
 
 **Instalation:**
 
