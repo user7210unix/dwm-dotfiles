@@ -17,7 +17,7 @@
 
 ```bash
 git clone https://github.com/user7210unix/dwm-dotfiles.git
-cd dwm-dotfiles/suckless
+cd dwm-dotfiles/suckless```
 
 <div align="center">
   <img src="pictures/lfs.png" alt="LFS Logo" width="200" style="margin-bottom: 20px;">
