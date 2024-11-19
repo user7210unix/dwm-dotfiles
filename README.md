@@ -17,7 +17,9 @@
   <img src="pictures/lfs.png" alt="LFS Logo" width="200" style="margin-bottom: 20px;">
 </div>
 
-𝑴𝒚 𝒄𝒖𝒔𝒕𝒐𝒎 𝒅𝒘𝒎 𝒄𝒐𝒏𝒇𝒊𝒈𝒖𝒓𝒂𝒕𝒊𝒐𝒏 𝒊𝒔 𝒔𝒑𝒆𝒄𝒊𝒇𝒊𝒄𝒂𝒍𝒍𝒚 𝒕𝒂𝒊𝒍𝒐𝒓𝒆𝒅 𝒇𝒐𝒓 [LFS (Linux From Scratch) 12.2](https://www.linuxfromscratch.org/lfs/view/stable/), 𝒑𝒓𝒊𝒐𝒓𝒊𝒕𝒊𝒛𝒊𝒏𝒈 𝒑𝒆𝒓𝒇𝒐𝒓𝒎𝒂𝒏𝒄𝒆, 𝒔𝒊𝒎𝒑𝒍𝒊𝒄𝒊𝒕𝒚, 𝒂𝒏𝒅 𝒂 𝒄𝒍𝒆𝒂𝒏 𝒂𝒆𝒔𝒕𝒉𝒆𝒕𝒊𝒄.
+𝑴𝒚 𝒄𝒖𝒔𝒕𝒐𝒎 𝒅𝒘𝒎 𝒄𝒐𝒏𝒇𝒊𝒈𝒖𝒓𝒂𝒕𝒊𝒐𝒏 𝒊𝒔 𝒔𝒑𝒆𝒄𝒊𝒇𝒊𝒄𝒂𝒍𝒍𝒚 𝒕𝒂𝒊𝒍𝒐𝒓𝒆𝒅 𝒇𝒐𝒓 
+[LFS (Linux From Scratch) 12.2](https://www.linuxfromscratch.org/lfs/view/stable/), 
+𝒑𝒓𝒊𝒐𝒓𝒊𝒕𝒊𝒛𝒊𝒏𝒈 𝒑𝒆𝒓𝒇𝒐𝒓𝒎𝒂𝒏𝒄𝒆, 𝒔𝒊𝒎𝒑𝒍𝒊𝒄𝒊𝒕𝒚, 𝒂𝒏𝒅 𝒂 𝒄𝒍𝒆𝒂𝒏 𝒂𝒆𝒔𝒕𝒉𝒆𝒕𝒊𝒄.
 
 ---
 
