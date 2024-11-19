@@ -1,4 +1,7 @@
-# 🌟 **𝐃𝐖𝐌-𝐃𝐎𝐓𝐅𝐈𝐋𝐄𝐒** 🌟  
+<div align="center">
+  <h1>🌟 <strong>𝐃𝐖𝐌-𝐃𝐎𝐓𝐅𝐈𝐋𝐄𝐒</strong> 🌟</h1>
+</div>
+
 > **Window Manager**: [Suckless DWM Window Manager](https://dwm.suckless.org/)
 
 <div align="center" style="margin: 30px 0;">
