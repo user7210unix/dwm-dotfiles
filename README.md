@@ -2,7 +2,15 @@
   <h1>🌟 <strong>𝐃𝐖𝐌-𝐃𝐎𝐓𝐅𝐈𝐋𝐄𝐒</strong> 🌟</h1>
 </div>
 
-> **Window Manager**: [Suckless DWM Window Manager](https://dwm.suckless.org/)
+<div align="center">
+  <h2 style="font-size: 24px;">
+    <strong> Window Manager: <a href="https://dwm.suckless.org/" style="text-decoration: none; color: inherit;">
+      <img src="https://dwm.suckless.org/favicon.ico" alt="DWM Icon" style="vertical-align: middle; width: 24px; height: 24px; margin-right: 8px;">
+      Suckless DWM Window Manager</a> 
+    </strong>
+  </h2>
+</div>
+
 
 <div align="center" style="margin: 30px 0;">
   <h2>🎨 Showcase</h2>
