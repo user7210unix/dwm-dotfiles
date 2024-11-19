@@ -22,15 +22,30 @@
 
 ---
 <div style="display: flex; align-items: center; justify-content: space-between;">
-  <div style="font-family: 'Courier New', monospace; font-size: 18px; line-height: 1.6; color: #555; max-width: 50%;">
-    <p>My Distro/Book of choice is <strong>LFS (Linux From Scratch) 12.2</strong>, 
-    <a href="https://www.linuxfromscratch.org/lfs/view/stable/" target="_blank" style="text-decoration: none; color: inherit;">
-    </a>prioritizing <strong>performance</strong>, <strong>simplicity</strong>, and a <strong>clean aesthetic</strong>.</p>
+
+  <div style="font-family: 'Courier New', monospace; font-size: 20px; line-height: 1.8; color: #555; max-width: 50%;">
+    <p>My Distro/Book of choice is:</p>
+    <p><strong>LFS (Linux From Scratch) 12.2</strong></p>
+    <p>
+      <a href="https://www.linuxfromscratch.org/lfs/view/stable/" target="_blank" style="text-decoration: none; color: inherit;">
+        Visit the official site here
+      </a>
+    </p>
+    <p>
+      I prioritize:
+      <ul>
+        <li><strong>Performance</strong></li>
+        <li><strong>Simplicity</strong></li>
+        <li><strong>Clean aesthetics</strong></li>
+      </ul>
+    </p>
   </div>
+
   <div>
-    <img src="pictures/lfs.png" alt="LFS Logo" width="200" style="margin-left: 20px;">
+    <img src="pictures/lfs.png" alt="LFS Logo" width="250" style="margin-left: 40px;">
   </div>
 </div>
+
 
 
 ---
