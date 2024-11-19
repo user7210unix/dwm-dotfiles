@@ -23,9 +23,8 @@
 ---
 
 <p style="font-family: 'Courier New', monospace; font-size: 18px; line-height: 1.6; color: #555;">
-  My custom <strong>dwm</strong> configuration is specifically tailored for 
+  My Distro/Book of choice is <strong>LFS (Linux From Scratch) 12.2</strong>
   <a href="https://www.linuxfromscratch.org/lfs/view/stable/" target="_blank" style="text-decoration: none; color: inherit;">
-    <strong>LFS (Linux From Scratch) 12.2</strong>
   </a>, prioritizing <strong>performance</strong>, <strong>simplicity</strong>, and a <strong>clean aesthetic</strong>.
 </p>
 
