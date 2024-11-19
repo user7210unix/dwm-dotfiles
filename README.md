@@ -13,13 +13,15 @@
 
 ---
 
-## 📥 **Installation**
-
-```git clone https://github.com/user7210unix/dwm-dotfiles.git
-cd dwm-dotfiles/suckless```
-
 <div align="center">
   <img src="pictures/lfs.png" alt="LFS Logo" width="200" style="margin-bottom: 20px;">
 </div>
 
 My custom dwm configuration is specifically tailored for [LFS (Linux From Scratch) 12.2](https://www.linuxfromscratch.org/lfs/view/stable/), prioritizing performance, simplicity, and a clean aesthetic. Below is a preview of my rice setup, showcasing a minimalist floating window layout with sleek black and dark yellow accents, designed to seamlessly integrate with the LFS environment.
+
+---
+
+## 📥 **Installation**
+
+```git clone https://github.com/user7210unix/dwm-dotfiles.git
+cd dwm-dotfiles/suckless```
