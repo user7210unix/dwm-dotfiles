@@ -5,7 +5,6 @@
 <div align="center" style="margin: 30px 0;">
   <h2>🎨 Showcase</h2>
   <p style="font-size: 19px; line-height: 1.6; color: #7c3f00;">
-    My custom dwm configuration is specifically tailored for performance, simplicity, and a clean aesthetic.  
     Below is a preview of my rice setup, showcasing a minimalist floating window layout with sleek black and dark yellow accents.
   </p>
   <img src="pictures/lfsnew.png" alt="Rice Setup Preview" width="600" style="display: block; margin: 29px auto; border: 2px solid #555; border-radius: 12px; box-shadow: 0 4px 10px rgba(0, 0, 0, 0.3);">
