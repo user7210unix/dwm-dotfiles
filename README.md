@@ -3,7 +3,7 @@
 </div>
 
 <div align="center" style="margin: 30px 0;">
-  <h2>🎨 *Showcase*</h2>
+  <h2>🎨 Showcase</h2>
   <p style="font-size: 19px; line-height: 1.6; color: #7c3f00;">
     My custom dwm configuration is specifically tailored for performance, simplicity, and a clean aesthetic.  
     Below is a preview of my rice setup, showcasing a minimalist floating window layout with sleek black and dark yellow accents.
