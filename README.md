@@ -3,9 +3,9 @@
 </div>
 
 <div align="center">
-  <h2 style="font-size: 24px;">
+  <h2 style="font-size: 29px;">
     <strong> <a href="https://dwm.suckless.org/" style="text-decoration: none; color: inherit;">
-      <img src="https://dwm.suckless.org/favicon.ico" alt="DWM Icon" style="vertical-align: middle; width: 24px; height: 24px; margin-right: 8px;">
+      <img src="https://dwm.suckless.org/favicon.ico" alt="DWM Icon" style="vertical-align: middle; width: 29px; height: 29px; margin-right: 8px;">
       Suckless DWM Window Manager</a> 
     </strong>
   </h2>
