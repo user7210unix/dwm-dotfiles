@@ -29,7 +29,7 @@
   </p>
   <p>
     <a href="https://www.linuxfromscratch.org/lfs/view/stable/" target="_blank" style="text-decoration: none; color: inherit;">
-      Official LFS Website
+      LFS 12.2 Book
     </a>
   </p>
   <img src="pictures/lfs.png" alt="LFS Logo" width="150" style="margin-top: 10px;">
