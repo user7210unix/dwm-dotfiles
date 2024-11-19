@@ -15,37 +15,10 @@
 
 ```cd dwm-dotfiles/suckless```
 
-```cd dwm ```
-
-```sudo make clean install```
-
-```cd ..```
-
-```cd st```
-
-```sudo make clean install```
-
-```cd ..```
-
-```cd slstatus```
-
-```sudo make clean install```
-
-```cd ..```
-
-```cd dmenu ```
-
-```sudo make clean install```
-
-
 
 **Font required:**
 
-```mkdir .fonts```
-
-```cd .fonts```
-
-```wget https://sourceforge.net/projects/terminus-font/files/terminus-font-4.49/terminus-font-4.49.1.tar.gz/download -O terminus-font.tar.gz```
+```terminus-font```
 
 ```tar -xvzf terminus-font.tar.gz```
 
